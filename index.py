@@ -5,6 +5,7 @@ import numpy as np
 import static.py.modelos as m
 import static.py.functions as f
 import os
+import sys
 from werkzeug.utils import secure_filename
 
 # Config
